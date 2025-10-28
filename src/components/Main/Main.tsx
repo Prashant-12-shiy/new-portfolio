@@ -17,6 +17,7 @@ import reactIcon from "../../assets/react-icon.svg";
 import typescriptIcon from "../../assets/typescript-icon.svg";
 import vueIcon from "../../assets/vue-icon.svg";
 import boostrapIcon from "../../assets/bootstrap-icon.svg";
+import Experience from "../Experence/Experence";
 
 export function Main() {
   return (
@@ -264,6 +265,7 @@ export function Main() {
       />
       <Hero></Hero>
       <About></About>
+      <Experience></Experience>
       <Project></Project>
       <Contact></Contact>
     </Container>
