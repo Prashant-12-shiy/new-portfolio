@@ -1,13 +1,10 @@
 import { Container } from "./styles";
 import prashantthapa from "../../assets/prashantthapa.jpg";
-import python from "../../assets/python.svg"
 import nextjs from "../../assets/Next.js.png"
-import wordpress from "../../assets/wordpress.svg";
 import shopify from "../../assets/shopify.svg";
 import htmlIcon from "../../assets/html-icon.svg";
 import cssIcon from "../../assets/css-icon.svg";
 import jsIcon from "../../assets/js-icon.svg";
-// import nodeIcon from "../../assets/node-icon.svg";
 import reactIcon from "../../assets/react-icon.svg";
 import expressjsIcon from "../../assets/express.png";
 import mongoDb from "../../assets/MongoDB.png";
